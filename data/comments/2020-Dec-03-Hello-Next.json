@@ -14,5 +14,13 @@
     "content": "New comment",
     "createdAt": 1607066101078,
     "id": "S-zKl-7whoWyuFkyIlRxht8bdiSku-"
+  },
+  {
+    "userId": "github-12593724",
+    "name": "Jace Babin",
+    "avatar": "https://avatars3.githubusercontent.com/u/12593724?v=4",
+    "content": "Fake comment",
+    "createdAt": 1607114476050,
+    "id": "qHG8YmO123Zy_18hEpRpDuzOPDTFv2"
   }
 ]
